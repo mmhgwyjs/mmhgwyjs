@@ -57,4 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Projects
 - <a href="https://github.com/mmhgwyjs/homelab">Home Lab Overview</a>
-- SOC Automation Project
+- <a href="https://github.com/mmhgwyjs/firewall">Firewall</a>
