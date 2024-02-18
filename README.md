@@ -23,7 +23,6 @@ I'm working towards becoming a Digital Forensics and Incident Response (DFIR) pr
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -56,7 +55,7 @@ I'm working towards becoming a Digital Forensics and Incident Response (DFIR) pr
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
