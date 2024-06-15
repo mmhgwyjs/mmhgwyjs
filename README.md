@@ -1,7 +1,7 @@
 # Hello, I'm Miguel!
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an Electronics Engineer that pursue a career in Cybersecurity specializing in defensive strategies. Currently, I work as a Security Engineer, focusing on the management of various SIEM and SOAR platforms to enhance security operations.
+An Electronics Engineer that pursue a career in Cybersecurity specializing in defensive strategies. Currently, I working as a Security Engineer, focusing on the management of various SIEM and SOAR platforms to enhance security operations.
 
 ## Goal
 
