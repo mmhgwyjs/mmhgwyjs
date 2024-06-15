@@ -62,8 +62,8 @@ I'm working towards becoming a Digital Forensics and Incident Response (DFIR) pr
 </div>
 
 ## Projects
-- <a href="https://github.com/mmhgwyjs/homelab">Home Lab Overview</a>
+- <a href="https://github.com/mmhgwyjs/homelab">Home Lab</a>
 - <a href="https://github.com/mmhgwyjs/firewall">Firewall</a>
 
-## Write-ups
+## Walkthroughs
 - <a href="https://github.com/mmhgwyjs/btlo">Blue Team Labs Online (BTLO)</a>
