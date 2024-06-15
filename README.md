@@ -7,6 +7,9 @@ I am an Electronics Engineer that pursue a career in Cybersecurity specializing 
 
 To learn and learn and learn.
 
+## Certifications
+- <a href="https://www.credly.com/badges/5a6f34ca-b459-4378-b586-50334d29d4f6">Microsoft Certified: Azure Fundamentals</a>
+- <a href="https://www.credly.com/badges/9845d157-b3d9-400d-8c50-e1e885d47e1d">CompTIA Security+ ce Certification</a>
 
 ## Projects
 - <a href="https://github.com/mmhgwyjs/homelab">Home Lab</a>
