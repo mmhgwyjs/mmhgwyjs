@@ -12,7 +12,7 @@ To learn and learn and learn.
 - Network Security Lab
 - Detection Lab
 - Automation Lab
-- Malware Analysis Lab
+- [Malware Analysis Lab](https://github.com/mmhgwyjs/malware-analysis-lab)
 - Forensics Lab
 - PenTest Lab
 - Cloud Lab
