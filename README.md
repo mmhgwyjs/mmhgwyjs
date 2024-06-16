@@ -47,6 +47,3 @@ To learn and learn and learn.
   ![FTK Imager Badge](https://img.shields.io/badge/-FTK%20Imager-007ACC?style=for-the-badge&logo=Autopsy&logoColor=white)
 
 
-## Certifications
-- <a href="https://www.credly.com/badges/9845d157-b3d9-400d-8c50-e1e885d47e1d">CompTIA Security+ ce Certification</a>
-- <a href="https://www.credly.com/badges/5a6f34ca-b459-4378-b586-50334d29d4f6">Microsoft Certified: Azure Fundamentals</a>
