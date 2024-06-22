@@ -14,7 +14,7 @@ To learn and learn and learn.
 - Automation Lab
 - [Malware Analysis Lab](https://github.com/mmhgwyjs/malware-analysis-lab)
 - Forensics Lab
-- PenTest Lab
+- [PenTest Lab](https://github.com/mmhgwyjs/pentest-lab)
 - Cloud Lab
 
 ## Walkthroughs
