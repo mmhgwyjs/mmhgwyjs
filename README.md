@@ -9,13 +9,15 @@ To learn and learn and learn.
 
 ## Projects
 - <a href="https://github.com/mmhgwyjs/homelab">Home Lab</a>
-- Network Security Lab
-- Detection Lab
 - Automation Lab
-- [Malware Analysis Lab](https://github.com/mmhgwyjs/malware-analysis-lab)
-- Forensics Lab
-- [PenTest Lab](https://github.com/mmhgwyjs/pentest-lab)
 - Cloud Lab
+- Detection Lab
+- Forensics Lab
+- Linux Lab
+- [Malware Analysis Lab](https://github.com/mmhgwyjs/malware-analysis-lab)
+- Network Security Lab
+- [PenTest Lab](https://github.com/mmhgwyjs/pentest-lab)
+- Windows Lab
 
 ## Walkthroughs
 - <a href="https://github.com/mmhgwyjs/btlo">Blue Team Labs Online (BTLO)</a>
