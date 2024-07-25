@@ -10,7 +10,7 @@ To learn and learn and learn.
 ## Projects
 - <a href="https://github.com/mmhgwyjs/homelab">Home Lab</a>
 - <a href="https://github.com/mmhgwyjs/windows-lab">Windows Lab </a>
-- Linux Lab
+- <a href="https://github.com/mmhgwyjs/linux-lab">Linux Lab </a>
 - Network Security Lab
 - Detection Lab
 - Automation Lab
