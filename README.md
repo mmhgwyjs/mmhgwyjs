@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="500" width="1500">
+<!-- https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md#work-culture-hd-visuals- -->
 
 # 👾 Hello, I'm Miguel!
 
@@ -7,6 +8,7 @@
 🎮 Outside of work, I like playing video games on PS5, Nintendo Switch, and PC.<br>
 🐱 I have six cats, each bringing their own unique charm.<br>
 🎯 My continuous goal is to keep learning and growing in the ever-evolving world of cybersecurity.
+<!-- https://gist.github.com/rxaviers/7360908 -->
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mm) 
