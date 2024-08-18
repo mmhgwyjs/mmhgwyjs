@@ -31,15 +31,15 @@
 
 | Project                 | Description                                           | Link                                                      | Status       |
 |-------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
-| Home Lab                | A comprehensive setup for various home lab scenarios.| [View Project](https://github.com/aaa/homelab)           | Active       |
-| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/aaaa/windows-lab)     | In Progress  |
-| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/aaa/linux-lab)         | Completed    |
+| Home Lab                | A comprehensive setup for various home lab scenarios.| [View Project](https://github.com/mmhgwyjs/homelab)           | Active       |
+| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | In Progress  |
+| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | Active    |
 | Network Security Lab    | Explore and enhance network security techniques.     | [View Project](#)                                        | Active       |
-| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](#)                                        | In Progress  |
+| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](#)                                        | Planned  |
 | Automation Lab          | Automate tasks and processes efficiently.            | [View Project](#)                                        | Planned      |
-| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/aaaa/malware-analysis-lab) | Active       |
-| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](#)                                      | Completed    |
-| PenTest Lab             | Resources for penetration testing and vulnerability assessments.| [View Project](https://github.com/aaaaa/pentest-lab) | Active       |
+| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | Active       |
+| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](#)                                      | Planned    |
+| PenTest Lab             | Resources for penetration testing and vulnerability assessments.| [View Project](https://github.com/mmhgwyjs/pentest-lab) | Planned       |
 | Cloud Lab               | Experiment with cloud computing technologies and services.| [View Project](#)                                      | Planned      |
 | Containerization Lab    | Learn about containerization and orchestration with Docker and Kubernetes.| [View Project](#) | Planned  |
 
@@ -47,8 +47,8 @@
 
 | Walkthrough              | Description                                           | Link                                                      | Status       |
 |--------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
-| Blue Team Labs Online | Hands-on labs for blue team skills and defense strategies.| [View Walkthrough](https://github.com/aaaa/btlo)       | Active    |
-| CyberDefenders           | Interactive labs and challenges for cyber defense.   | [View Walkthrough](https://github.com/aaaaa/cyberdefenders) | Active       |
+| Blue Team Labs Online | Hands-on labs for blue team skills and defense strategies.| [View Walkthrough](https://github.com/mmhgwyjs/btlo)       | Active    |
+| CyberDefenders           | Interactive labs and challenges for cyber defense.   | [View Walkthrough](https://github.com/mmhgwyjs/cyberdefenders) | Active       |
 | HackTheBox               | Engage in cybersecurity challenges and exercises.    | [View Walkthrough](#)                                    | Planned  |
 | LetsDefend               | Learn and practice with real-world security scenarios.| [View Walkthrough](#)                                    | Planned      |
 | TryHackMe                | Educational platform with guided walkthroughs and labs.| [View Walkthrough](#)                                    | Planned       |
