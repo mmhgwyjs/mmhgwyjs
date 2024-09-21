@@ -35,7 +35,7 @@
 | Network Security Lab    | Explore and enhance network security techniques.     | [View Project](#)                                        | Active       |
 | Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](#)                                        | Planned  |
 | Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | Active       |
-| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](#)                                      | Planned    |
+| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)                                      | Planned    |
 | PenTest Lab             | Resources for penetration testing and vulnerability assessments.| [View Project](https://github.com/mmhgwyjs/pentest-lab) | Planned       |
 | Automation Lab          | Automate tasks and processes efficiently.            | [View Project](#)                                        | Planned      |
 | Cloud Lab               | Experiment with cloud computing technologies and services.| [View Project](#)                                      | Planned      |
