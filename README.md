@@ -48,7 +48,7 @@
 | Blue Team Labs Online | Hands-on labs for blue team skills and defense strategies.| [View Walkthrough](https://github.com/mmhgwyjs/btlo)       | Active    |
 | CyberDefenders           | Interactive labs and challenges for cyber defense.   | [View Walkthrough](https://github.com/mmhgwyjs/cyberdefenders) | Active       |
 | HackTheBox               | Engage in cybersecurity challenges and exercises.    | [View Walkthrough](#)                                    | Planned  |
-| LetsDefend               | Learn and practice with real-world security scenarios.| [View Walkthrough](#)                                    | Planned      |
+| LetsDefend               | Learn and practice with real-world security scenarios.| [View Walkthrough](#)                                    | Inactive      |
 | TryHackMe                | Educational platform with guided walkthroughs and labs.| [View Walkthrough](#)                                    | Planned       |
 
 ---
