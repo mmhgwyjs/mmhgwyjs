@@ -33,7 +33,7 @@
 | Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | In Progress  |
 | Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | Active    |
 | Network Security Lab    | Explore and enhance network security techniques.     | [View Project](#)                                        | Planned       |
-| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](#)                                        | Planned  |
+| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](https://github.com/mmhgwyjs/detection-lab) | Planned  |
 | Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | Active       |
 | Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)                                      | Planned    |
 | PenTest Lab             | Resources for penetration testing and vulnerability assessments.| [View Project](https://github.com/mmhgwyjs/pentest-lab) | Planned       |
