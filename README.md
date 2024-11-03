@@ -51,6 +51,14 @@
 | LetsDefend               | Learn and practice with real-world security scenarios.| [View Walkthrough](https://github.com/mmhgwyjs/letsdefend) | Active      |
 | TryHackMe                | Educational platform with guided walkthroughs and labs.| [View Walkthrough](#)                                    | Planned       |
 
+## 📝 Study Notes
+
+| Type          | Title                      | Description                                  | Link                 |
+|---------------|----------------------------|----------------------------------------------|----------------------|
+| Course        | TCM - Security Operations (SOC) 101            | This course aims to equip students with all of the fundamental security operations knowledge and practical skills needed in order to achieve and excel in a T1 or T2 SOC Analyst position.            | [View Notes](https://github.com/mmhgwyjs/tcm-security/tree/main/Security%20Operations%20(SOC)%20101)    |
+| Course  | TCM - Practical Windows Forensics         |  The course covers a full digital forensic investigation of a Windows system.    | [View Notes](#)    | 
+| Course        | TCM - Open-Source Intelligence (OSINT) Fundamentals             | This course focuses on Open-Source Intelligence (OSINT) tactics and techniques designed to help you improve your investigative game.            | [View Notes](#)    |
+
 ---
 
 ### 💭 Question of the Day!
