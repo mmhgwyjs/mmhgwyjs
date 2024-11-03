@@ -53,11 +53,11 @@
 
 ## 📝 Study Notes
 
-| Type          | Title                      | Description                                  | Link                 |
-|---------------|----------------------------|----------------------------------------------|----------------------|
-| Course        | TCM - Security Operations (SOC) 101            | This course aims to equip students with all of the fundamental security operations knowledge and practical skills needed in order to achieve and excel in a T1 or T2 SOC Analyst position.            | [View Notes](https://github.com/mmhgwyjs/tcm-security/tree/main/Security%20Operations%20(SOC)%20101)    |
-| Course  | TCM - Practical Windows Forensics         |  The course covers a full digital forensic investigation of a Windows system.    | [View Notes](#)    | 
-| Course        | TCM - Open-Source Intelligence (OSINT) Fundamentals             | This course focuses on Open-Source Intelligence (OSINT) tactics and techniques designed to help you improve your investigative game.            | [View Notes](#)    |
+| Type          | Title                      | Source                 | Description                                  | Link                 |
+|---------------|----------------------------|----------------------|----------------------------------------------|----------------------|
+| Course        | Security Operations (SOC) 101  | TCM Security Academy        | This course aims to equip students with all of the fundamental security operations knowledge and practical skills needed in order to achieve and excel in a T1 or T2 SOC Analyst position.            | [View Notes](https://github.com/mmhgwyjs/tcm-security/blob/main/Security%20Operations%20(SOC)%20101/0.%20Overview.md)    |
+| Course  | Practical Windows Forensics   | TCM Security Academy     |  The course covers a full digital forensic investigation of a Windows system.    | [View Notes](#)    | 
+| Course        |  Open-Source Intelligence (OSINT) Fundamentals  | TCM Security Academy  | This course focuses on Open-Source Intelligence (OSINT) tactics and techniques designed to help you improve your investigative game.            | [View Notes](#)    |
 
 ---
 
