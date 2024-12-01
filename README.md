@@ -3,7 +3,7 @@
 
 # 👾 Hello, I'm Miguel!
 
-🤖 I’m an Electronics Engineer with a passion for Cybersecurity, specializing in defensive strategies.<br>
+🤖 I’m a cybersecurity professional specializing in detecting, analyzing, and responding to cyber threats.<br>
 👷 Currently working as a Security Engineer, I manage and optimize several SIEM and SOAR platforms.<br>
 🎮 Outside of work, I like playing video games on PS5, Nintendo Switch, and PC.<br>
 🐱 We have six amazing cats, each bringing their own unique charm.<br> 
