@@ -6,7 +6,7 @@
 🤖 I’m a cybersecurity professional specializing in detecting, analyzing, and responding to cyber threats.<br>
 👷 Currently working as a Security Engineer, I manage and optimize several SIEM and SOAR platforms.<br>
 🎮 Outside of work, I like playing video games on PS5, Nintendo Switch, and PC.<br>
-🐱 We have six amazing cats, each bringing their own unique charm.<br> 
+🐱 We have seven amazing cats, each bringing their own unique charm.<br> 
 🎯 My continuous goal is to keep learning and growing in the ever-evolving world of cybersecurity.
 <!-- https://gist.github.com/rxaviers/7360908 -->
 
