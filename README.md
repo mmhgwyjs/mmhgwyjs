@@ -13,7 +13,8 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mm) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mm) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mm) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mm)
+[![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/your-user-id)
 
 ## 💻 [Tools](https://github.com/mmhgwyjs/tools)
 ![Windows](https://img.shields.io/badge/Windows-%231217F2.svg?style=for-the-badge&logo=windows&logoColor=white)
