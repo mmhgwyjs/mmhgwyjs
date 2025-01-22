@@ -30,13 +30,13 @@
 
 | Project                 | Description                                           | Link                                                      | Status       |
 |-------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
-| Home Lab                | A comprehensive setup for various home lab scenarios.| [View Project](https://github.com/mmhgwyjs/homelab)           | Active       |
-| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | In Progress  |
-| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | Active    |
+| Home Lab                | A comprehensive setup for various home lab scenarios.| [View Project](https://github.com/mmhgwyjs/homelab)           | On Hold       |
+| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | On Hold  |
+| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | On Hold    |
 | Network Security Lab    | Explore and enhance network security techniques.     | [View Project](#)                                        | Planned       |
 | Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](https://github.com/mmhgwyjs/detection-lab) | Planned  |
-| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | Active       |
-| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)                                      | Planned    |
+| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | On Hold       |
+| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)                                      | On Hold    |
 | PenTest Lab             | Resources for penetration testing and vulnerability assessments.| [View Project](https://github.com/mmhgwyjs/pentest-lab) | Planned       |
 | Automation Lab          | Automate tasks and processes efficiently.            | [View Project](#)                                        | Planned      |
 | Cloud Lab               | Experiment with cloud computing technologies and services.| [View Project](#)                                      | Planned      |
@@ -46,10 +46,10 @@
 
 | Walkthrough              | Description                                           | Link                                                      | Status       |
 |--------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
-| Blue Team Labs Online | Hands-on labs for blue team skills and defense strategies.| [View Walkthrough](https://github.com/mmhgwyjs/btlo)       | Active    |
+| Blue Team Labs Online | Hands-on labs for blue team skills and defense strategies.| [View Walkthrough](https://github.com/mmhgwyjs/btlo)       | Deferred    |
 | CyberDefenders           | Interactive labs and challenges for cyber defense.   | [View Walkthrough](https://github.com/mmhgwyjs/cyberdefenders) | Active       |
 | HackTheBox               | Engage in cybersecurity challenges and exercises.    | [View Walkthrough](#)                                    | Planned  |
-| LetsDefend               | Learn and practice with real-world security scenarios.| [View Walkthrough](https://github.com/mmhgwyjs/letsdefend) | Active      |
+| LetsDefend               | Learn and practice with real-world security scenarios.| [View Walkthrough](https://github.com/mmhgwyjs/letsdefend) | Deferred      |
 | TryHackMe                | Educational platform with guided walkthroughs and labs.| [View Walkthrough](#)                                    | Planned       |
 
 ---
