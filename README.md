@@ -31,12 +31,12 @@
 | Project                 | Description                                           | Link                                                      | Status       |
 |-------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
 | Home Lab                | A comprehensive setup for various home lab scenarios.| [View Project](https://github.com/mmhgwyjs/homelab)           | On Hold       |
-| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | On Hold  |
-| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | On Hold    |
+| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | Active  |
+| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | Active    |
 | Network Security Lab    | Explore and enhance network security techniques.     | [View Project](#)                                        | Planned       |
-| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](https://github.com/mmhgwyjs/detection-lab) | Planned  |
-| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | On Hold       |
-| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)                                      | On Hold    |
+| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](https://github.com/mmhgwyjs/detection-lab) | Active  |
+| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | Active       |
+| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)    | Active  |
 | PenTest Lab             | Resources for penetration testing and vulnerability assessments.| [View Project](https://github.com/mmhgwyjs/pentest-lab) | Planned       |
 | Automation Lab          | Automate tasks and processes efficiently.            | [View Project](#)                                        | Planned      |
 | Cloud Lab               | Experiment with cloud computing technologies and services.| [View Project](#)                                      | Planned      |
