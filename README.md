@@ -31,15 +31,15 @@
 | Project                 | Description                                           | Link                                                      | Status       |
 |-------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
 | Home Lab                | A comprehensive setup for various home lab scenarios.| [View Project](https://github.com/mmhgwyjs/homelab)           | On Hold       |
-| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | Active  |
-| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | Active    |
+| Windows Lab             | Dedicated to Windows-based environments and experiments.| [View Project](https://github.com/mmhgwyjs/windows-lab)     | Stable  |
+| Linux Lab               | Focused on Linux systems and configurations.         | [View Project](https://github.com/mmhgwyjs/linux-lab)         | Stable    |
 | Network Security Lab    | Explore and enhance network security techniques.     | [View Project](#)                                        | Planned       |
-| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](https://github.com/mmhgwyjs/detection-lab) | Active  |
-| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | Active       |
-| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)    | Active  |
+| Detection Lab           | Tools and setups for detecting and analyzing threats.| [View Project](https://github.com/mmhgwyjs/detection-lab) | Stable  |
+| Malware Analysis Lab    | Study and analyze various types of malware.          | [View Project](https://github.com/mmhgwyjs/malware-analysis-lab) | Stable       |
+| Forensics Lab           | Techniques and tools for digital forensics investigations.| [View Project](https://github.com/mmhgwyjs/forensics-lab/)    | Stable  |
 | PenTest Lab             | Resources for penetration testing and vulnerability assessments.| [View Project](https://github.com/mmhgwyjs/pentest-lab) | Planned       |
-| Automation Lab          | Automate tasks and processes efficiently.            | [View Project](https://github.com/mmhgwyjs/automation-lab) | Active      |
-| Cloud Lab               | Experiment with cloud computing technologies and services.| [View Project](#)                                      | Planned      |
+| Automation Lab          | Automate tasks and processes efficiently.            | [View Project](https://github.com/mmhgwyjs/automation-lab) | Stable      |
+| Azure Lab               | Experiment with cloud computing technologies and services.| [View Project](https://github.com/mmhgwyjs/azure-lab)  | Active      |
 | Containerization Lab    | Learn about containerization and orchestration with Docker and Kubernetes.| [View Project](#) | Planned  |
 
 ## 📓 Walkthroughs
@@ -47,7 +47,7 @@
 | Walkthrough              | Description                                           | Link                                                      | Status       |
 |--------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------|
 | Blue Team Labs Online | Hands-on labs for blue team skills and defense strategies.| [View Walkthrough](https://github.com/mmhgwyjs/btlo)       | Deferred    |
-| CyberDefenders           | Interactive labs and challenges for cyber defense.   | [View Walkthrough](https://github.com/mmhgwyjs/cyberdefenders) | Active       |
+| CyberDefenders           | Interactive labs and challenges for cyber defense.   | [View Walkthrough](https://github.com/mmhgwyjs/cyberdefenders) | Stable       |
 | HackTheBox               | Engage in cybersecurity challenges and exercises.    | [View Walkthrough](#)                                    | Planned  |
 | LetsDefend               | Learn and practice with real-world security scenarios.| [View Walkthrough](https://github.com/mmhgwyjs/letsdefend) | Deferred      |
 | TryHackMe                | Educational platform with guided walkthroughs and labs.| [View Walkthrough](#)                                    | Planned       |
